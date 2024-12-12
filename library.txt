@@ -1,4 +1,4 @@
 streamlit
 numpy==2.2.0
-sympy==1.13.3
+sympy
 matplotlib==3.9.3
